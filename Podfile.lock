@@ -1,0 +1,22 @@
+PODS:
+  - SwiftSoup (2.3.2)
+  - XMLMapper (2.0.0):
+    - XMLMapper/Core (= 2.0.0)
+  - XMLMapper/Core (2.0.0)
+
+DEPENDENCIES:
+  - SwiftSoup
+  - XMLMapper
+
+SPEC REPOS:
+  trunk:
+    - SwiftSoup
+    - XMLMapper
+
+SPEC CHECKSUMS:
+  SwiftSoup: f97bc4e988c7729d6457f9642f974c617a6e2510
+  XMLMapper: 45ff16367092620b0b4adbc5e42dd8db6ebb5e0d
+
+PODFILE CHECKSUM: 37fea1c61bd73fd5ed0c58fa5bf0a2e978f4880e
+
+COCOAPODS: 1.10.1
